@@ -1,6 +1,7 @@
 # Chrome Type Ahead
 
 I found this extension code on GitHub and cloned it from https://github.com/tokland/chrome-type-ahead
+
 This was an exported project form Google Code https://code.google.com/archive/p/chrome-type-ahead/
 
 ## Original README from Google Code
@@ -28,7 +29,7 @@ The extension covers the goals I had when I start writing it, so its status is "
 
 ### How to install the extension from sources
 
-First of all, read *this page (sadly the link doesn't seem to be point to anything on the Google Code project)*. Then:
+First of all, read ***this page*** *(sadly the link doesn't seem to be point to anything on the Google Code project)*. Then:
 
 1. Checkout code: svn checkout http://chrome-type-ahead.googlecode.com/svn/trunk/ chrome-type-ahead
 1. Open Extensions page in Chrome.
